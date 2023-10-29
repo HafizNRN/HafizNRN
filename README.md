@@ -1,2 +1,2 @@
-<h1 align="center">Hai semuanya👋, saya Hafiz NR</h1>
-<h3 align="center">Pengembang frontend yang bersemangat dari Indonesia🇮🇩</h3>
+<h1 align="center">Hi Everyone👋, I m Hafiz NR</h1>
+<h3 align="center">Front-end Development From Indonesia, East Java🇮🇩</h3>
